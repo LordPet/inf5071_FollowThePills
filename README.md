@@ -1,7 +1,7 @@
 # Follow the pills
 
 ## Description du projet
-
+Le but du jeu est de ramasser les pillules qui se trouve dans la carte. Le joueur doit les collecters avant que le temps ne soit terminer. Les pillules sont répartis dans une carte de type tour. Si le joueur tombe ou meurt, il doit recommencer du début.
 
 ### La division des tâches au sein de l'équipe
 
@@ -29,8 +29,12 @@ Les textures sont réaliser par photoshop et Krita
 
 
 ### Votre conception d'au moins un modèle, avec textures
+Le personnage
+
 
 ### Votre conception d'au moins une animation
+Les arbres et personnages
 
 ### Le jeu de lumière utilisé
+À définir
 
