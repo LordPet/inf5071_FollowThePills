@@ -9,9 +9,9 @@ Comme je suis le seul développeur, j'ai assumé toute les phases et responsabil
 
 ### Les styles de jeu utilisés (voir plus haut)
 
-Le thème est le TDAH. Le joueur incarne un petit personnage devant rammasser assez de pillule de médicament pour rester en vie et réussir le but du niveau.
+Psychedelique Game. Le personnage est un jeune aventurier se prennant pour un magicien dont la quête est de receuiller le plus de pillule magique pour continuer son illumination.
 
-Le style de jeu est un plateformer. 
+Le style de jeu est un plateformer/open world
 
 
 
