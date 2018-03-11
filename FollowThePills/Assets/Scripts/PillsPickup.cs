@@ -5,10 +5,11 @@ using UnityEngine;
 public class PillsPickup : MonoBehaviour {
 
 	public int value;
+	public bool afficherMessage;
 
 	// Use this for initialization
 	void Start () {
-		
+		afficherMessage = false;
 	}
 	
 	// Update is called once per frame
@@ -18,9 +19,20 @@ public class PillsPickup : MonoBehaviour {
  
 	private void OnTriggerEnter(Collider other){
 	
-		if(other.tag == "Player"){
-			FindObjectOfType<GameManager> ().AddPills(value);
+		if (other.tag == "Player") {
+			FindObjectOfType<GameManager> ().AddPills (value);
 			Destroy (gameObject);
 		}
+
+		if (gameObject.tag== "Finish") {
+				
+			Application.LoadLevel("Menu");
+		
+		}
+
+
 	}
+
+
+
 }
