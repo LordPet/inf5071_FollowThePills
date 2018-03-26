@@ -25,7 +25,7 @@ public class PillsPickup : MonoBehaviour {
 		}
 
 		if (gameObject.tag== "Finish") {
-				
+			Cursor.lockState = CursorLockMode.Confined;
 			Application.LoadLevel("Menu");
 		
 		}
