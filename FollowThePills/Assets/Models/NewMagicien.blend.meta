@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: c98c42726835b47fea564e3951e8a0ef
+timeCreated: 1523580008
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Hat
+    100006: Head
+    100008: Larm
+    100010: Leye
+    100012: Lfeet
+    100014: LHand
+    100016: Lleg
+    100018: Rarm
+    100020: Reye
+    100022: Rfeet
+    100024: RHand
+    100026: Rleg
+    100028: TopHat
+    400000: //RootNode
+    400002: Body
+    400004: Hat
+    400006: Head
+    400008: Larm
+    400010: Leye
+    400012: Lfeet
+    400014: LHand
+    400016: Lleg
+    400018: Rarm
+    400020: Reye
+    400022: Rfeet
+    400024: RHand
+    400026: Rleg
+    400028: TopHat
+    2300000: //RootNode
+    2300002: Body
+    2300004: Hat
+    2300006: Head
+    2300008: Larm
+    2300010: Leye
+    2300012: Lfeet
+    2300014: LHand
+    2300016: Lleg
+    2300018: Rarm
+    2300020: Reye
+    2300022: Rfeet
+    2300024: RHand
+    2300026: Rleg
+    2300028: TopHat
+    3300000: //RootNode
+    3300002: Body
+    3300004: Hat
+    3300006: Head
+    3300008: Larm
+    3300010: Leye
+    3300012: Lfeet
+    3300014: LHand
+    3300016: Lleg
+    3300018: Rarm
+    3300020: Reye
+    3300022: Rfeet
+    3300024: RHand
+    3300026: Rleg
+    3300028: TopHat
+    4300000: Cube
+    4300002: Leye
+    4300004: Lleg
+    4300006: Rfeet
+    4300008: Rarm
+    4300010: Head
+    4300012: Body
+    4300014: Larm
+    4300016: Hat
+    4300018: Lfeet
+    4300020: Rleg
+    4300022: Reye
+    4300024: TopHat
+    4300026: LHand
+    4300028: RHand
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: NewMagicien(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: NewMagicien(Clone)
+      position: {x: -0.31327954, y: 5.128042, z: -0.33816826}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.8454063, y: 1, z: 1.6710898}
+    - name: Hat
+      parentName: NewMagicien(Clone)
+      position: {x: -0.40117592, y: 15.496584, z: -0.31662008}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.3318617, y: 2.3318617, z: 2.3318617}
+    - name: Head
+      parentName: NewMagicien(Clone)
+      position: {x: -0.38406837, y: 12.644671, z: -0.33892488}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.990606, y: 1.990606, z: 1.990606}
+    - name: Larm
+      parentName: NewMagicien(Clone)
+      position: {x: -3.011344, y: 8.745075, z: -0.3247656}
+      rotation: {x: -0.44398037, y: 0.54494005, z: -0.46183282, w: 0.54095495}
+      scale: {x: -0.4164992, y: -0.4147899, z: -0.8836108}
+    - name: Leye
+      parentName: NewMagicien(Clone)
+      position: {x: -1.4106097, y: 12.941823, z: 1.584303}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.26001137, y: 0.26001137, z: 0.26001137}
+    - name: Lfeet
+      parentName: NewMagicien(Clone)
+      position: {x: -1.3221456, y: 0.38597628, z: 0.30784371}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.55278015, y: 0.8259464, z: 0.49430132}
+    - name: LHand
+      parentName: NewMagicien(Clone)
+      position: {x: -5.4205165, y: 8.790277, z: -0.30508313}
+      rotation: {x: -0.03058483, y: -0.00000015786159, z: -0.00000016782735, w: 0.99953216}
+      scale: {x: 0.27826476, y: 0.41687116, z: 0.43183595}
+    - name: Lleg
+      parentName: NewMagicien(Clone)
+      position: {x: -1.2868563, y: 2.1578152, z: -0.09721827}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.36033344, y: 0.36033344, z: 1.6006256}
+    - name: Rarm
+      parentName: NewMagicien(Clone)
+      position: {x: 2.1779406, y: 8.647458, z: -0.3247656}
+      rotation: {x: -0.47030285, y: 0.5421106, z: -0.4447584, w: 0.535837}
+      scale: {x: -0.45324644, y: -0.4513863, z: -0.9615708}
+    - name: Reye
+      parentName: NewMagicien(Clone)
+      position: {x: 0.53270173, y: 12.941823, z: 1.5078608}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.26001137, y: 0.26001137, z: 0.26001137}
+    - name: Rfeet
+      parentName: NewMagicien(Clone)
+      position: {x: 0.71363366, y: 0.38597628, z: 0.27033818}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.55278015, y: 0.8259464, z: 0.49430132}
+    - name: RHand
+      parentName: NewMagicien(Clone)
+      position: {x: 4.9778295, y: 8.7599125, z: -0.20530657}
+      rotation: {x: 0.0058787228, y: 0.9996426, z: 0.0033356245, w: 0.025865985}
+      scale: {x: 0.27826476, y: 0.4168712, z: 0.43183595}
+    - name: Rleg
+      parentName: NewMagicien(Clone)
+      position: {x: 0.6854067, y: 2.1578152, z: -0.09721827}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.36033344, y: 0.36033344, z: 1.6006256}
+    - name: TopHat
+      parentName: NewMagicien(Clone)
+      position: {x: -0.43038842, y: 18.257147, z: -0.29940102}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.26001137, y: 0.26001137, z: 0.26001137}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
