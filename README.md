@@ -45,13 +45,18 @@ CrazyBump
 
 
 ### Éléments empruntés
-Textures: 
+#### Textures: 
+
 TexturesCom_Cobblestone1_512_normal.tiff
+
 TexturesCom_PlasterColoured0175_1_seamless_S
+
 TexturesCom_RiverStone05_lp.OBJ
 
-Asset:
+#### Asset:
+
 Dossier Standard Assets
+
 Simple wooden barrel pack
 
 
